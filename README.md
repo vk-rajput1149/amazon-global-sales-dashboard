@@ -5,7 +5,7 @@ This project analyzes global sales, profit, and returns using the Amazon Superst
 The goal was to build an interactive Power BI dashboard to uncover insights into customer segments, regional markets, product performance, and return trends.
 
 ## 🗂 Dataset
-- **Source:** Global Superstore dataset (Excel)
+- **Source:** Global Superstore dataset (Excel) 
 - **Period Covered:** 2012–2015
 - **Rows:** 178K records
 - **Fields Included:** Order Date, Market, Segment, Region, Product, Sales, Profit, Quantity, Discount, Returns
